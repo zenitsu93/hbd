@@ -55,6 +55,7 @@ html {
 /* Paper */
 @import url(https://fonts.googleapis.com/css?family=Roboto);
 @import url(https://fonts.googleapis.com/css?family=Handlee);
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap');
 
 
 .paper {
@@ -109,8 +110,8 @@ html {
   outline: 0;
   background: transparent;
   color: #3f3f44;
-  font-family: 'Quicksand', sans-serif;
-  font-size: 18px;
+  font-family: 'Caveat', cursive;
+  font-size: 14px;
   box-sizing: border-box;
   z-index: 1;
 }
