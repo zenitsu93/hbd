@@ -159,6 +159,7 @@ new TypeIt("#teks1", {
     "🌧️ Tu es de celles qui avancent même les jours de tempête.",
     "🪨 Que les épreuves deviennent les pierres solides sur lesquelles tu te relèves.",
     "✨ Que le monde, un jour, reconnaisse pleinement la lumière que tu sèmes partout sans bruit.",
+    " ",
     "🫂 Même quand tu doutes, tu continues à donner, à écouter, à espérer.",
     "🍃 Alors aujourd’hui, juste une pause : pour que toi aussi, tu reçoives.",
     "🕊️ Que chaque respiration t’apaise, et que la douceur trouve toujours le chemin jusqu’à toi.",
@@ -180,7 +181,7 @@ new TypeIt("#teks2", {
     " ",
     "💫 - Que cette nouvelle année soit un espace plus doux, plus libre, plus toi."
   ],
-  startDelay: 5000,
+  startDelay: 2000,
   speed: 65,
   waitUntilVisible: true
 }).go();
