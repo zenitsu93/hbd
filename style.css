@@ -54,7 +54,6 @@ html {
 
 /* Paper */
 @import url(https://fonts.googleapis.com/css?family=Roboto);
-@import url(https://fonts.googleapis.com/css?family=Handlee);
 
 
 .paper {
@@ -109,7 +108,7 @@ html {
   outline: 0;
   background: transparent;
   color: #3f3f44;
-  font-family: 'Handlee', cursive;
+  font-family: 'Roboto', sans-serif;
   font-size: 18px;
   box-sizing: border-box;
   z-index: 1;
