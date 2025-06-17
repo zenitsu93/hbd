@@ -15,7 +15,7 @@ const second = 1000,
   minute = second * 60,
   hour = minute * 60,
   day = hour * 24;
-let countDown = new Date('June 18, 2025 00:00:00').getTime(),
+let countDown = new Date('June 14, 2025 00:00:00').getTime(),
   x = setInterval(function () {
     let now = new Date().getTime(),
       distance = countDown - now;
@@ -155,14 +155,11 @@ const _slideEnam = function () {
 
 new TypeIt("#teks1", {
   strings: [
-    "🌼 Aujourd’hui, j’élève mes pensées les plus douces pour toi, Lise Alicia Marion.",
+    "🌼 Aujourd’hui, j’élève mes pensées, mes prières pour toi, Lise Alicia Marion.",
     "🌧️ Tu es de celles qui avancent même les jours de tempête.",
     "🪨 Que les épreuves deviennent les pierres solides sur lesquelles tu te relèves.",
-    "✨ Que le monde, un jour, reconnaisse pleinement la lumière que tu sèmes partout sans bruit.",
     " ",
-    " Même quand tu doutes, tu continues à donner, à écouter, à espérer.",
-    " Alors aujourd’hui, juste une pause : pour que toi aussi, tu reçoives.",
-    " Que chaque respiration t’apaise, et que la douceur trouve toujours le chemin jusqu’à toi.",
+    " Même quand tu doutes, tu continues à donner, à écouter, à espérer."
   ],
   startDelay: 2000,
   speed: 65,
